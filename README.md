@@ -1,2 +1,4 @@
 # GRIP-tsf
-The Sparks Foundation Data Science and Business Analytics Tasks
+The Sparks Foundation 
+Data Science and Business Analytics Internship
+
